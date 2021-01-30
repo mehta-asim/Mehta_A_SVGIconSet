@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 74.05 146.02" style="enable-background:new 0 0 74.05 146.02;" xml:space="preserve">
+<svg version="1.1" id="pause" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 74.1 146" style="enable-background:new 0 0 74.1 146;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#9D72FF;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#01FFFF;stroke-miterlimit:10;}
 </style>
 <g id="rectangle_x5F_left">
-	<polygon id="purple_16_" class="st0" points="21.45,145.52 0.51,145.52 4.26,0.5 17.87,0.5 	"/>
-	<polygon id="cyan_16_" class="st1" points="17.7,145.52 4.26,145.52 0.51,0.5 21.45,0.5 	"/>
+	<polygon id="purple_16_" class="st0" points="21.5,145.5 0.5,145.5 4.3,0.5 17.9,0.5 	"/>
+	<polygon id="cyan_16_" class="st1" points="17.7,145.5 4.3,145.5 0.5,0.5 21.5,0.5 	"/>
 </g>
 <g id="rectangle_x5F_right">
-	<polygon id="purple_17_" class="st0" points="52.6,0.5 73.53,0.5 69.79,145.52 56.17,145.52 	"/>
-	<polygon id="cyan_17_" class="st1" points="56.34,0.5 69.79,0.5 73.53,145.52 52.6,145.52 	"/>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
+	<polygon id="purple_17_" class="st0" points="52.6,0.5 73.5,0.5 69.8,145.5 56.2,145.5 	"/>
+	<polygon id="cyan_17_" class="st1" points="56.3,0.5 69.8,0.5 73.5,145.5 52.6,145.5 	"/>
 </g>
 </svg>

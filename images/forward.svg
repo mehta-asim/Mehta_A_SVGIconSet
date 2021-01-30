@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 127.28 124.97" style="enable-background:new 0 0 127.28 124.97;" xml:space="preserve">
+<svg version="1.1" id="forward" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 127.3 125" style="enable-background:new 0 0 127.3 125;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#9D72FF;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#01FFFF;stroke-miterlimit:10;}
@@ -9,27 +9,15 @@
 	.st3{fill:none;stroke:#9D72FF;stroke-width:0.75;stroke-miterlimit:10;}
 </style>
 <g id="rectangle_x5F_right">
-	<polygon id="purple_7_" class="st0" points="18.05,1.95 0.51,1.95 3.65,123.45 15.06,123.45 	"/>
-	<polygon id="cyan_7_" class="st1" points="14.92,1.95 3.65,1.95 0.51,123.45 18.05,123.45 	"/>
+	<polygon id="purple_7_" class="st0" points="18,2 0.5,2 3.7,123.4 15.1,123.4 	"/>
+	<polygon id="cyan_7_" class="st1" points="14.9,2 3.7,2 0.5,123.4 18,123.4 	"/>
 </g>
 <g id="triangle_x5F_big">
-	<polygon id="cyan_8_" class="st2" points="122.66,0.66 126.89,120.94 20.41,64.47 	"/>
-	<polygon id="purple_8_" class="st3" points="126.54,4 123.03,124.31 20.4,61.12 	"/>
+	<polygon id="cyan_8_" class="st2" points="122.7,0.7 126.9,120.9 20.4,64.5 	"/>
+	<polygon id="purple_8_" class="st3" points="126.5,4 123,124.3 20.4,61.1 	"/>
 </g>
 <g id="triangle_x5F_small">
-	<polygon id="cyan_9_" class="st2" points="110.47,20.48 113.36,102.62 40.64,64.05 	"/>
-	<polygon id="purple_9_" class="st3" points="113.12,22.76 110.73,104.92 40.64,61.76 	"/>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
-	<g>
-	</g>
+	<polygon id="cyan_9_" class="st2" points="110.5,20.5 113.4,102.6 40.6,64.1 	"/>
+	<polygon id="purple_9_" class="st3" points="113.1,22.8 110.7,104.9 40.6,61.8 	"/>
 </g>
 </svg>
